@@ -1,10 +1,10 @@
 {
   "copyright": "",
-  "theme": "light",
+  "theme": "forest",
   "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
-  "banner": "/banner.webp",
+  "author": "Build Carolina",
+  "name": "The Yet to be Named Podcast from Build Carolina (seriously, we'll have a name soon!)",
+  "banner": "/banner.png",
   "pageSize": 15,
   "fundingUrl": "",
   "owner": "",
@@ -14,10 +14,11 @@
   "language": "en",
   "link": "https://your-website-url.netlify.app",
   "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "description": "Lelia King and Sean Reid interview folks across South Carolina who have been involved with Build Carolina in some capacity.",
   "category": [
     "Technology",
-    "Business"
+    "Web Development",
+    "South Carolina"
   ],
   "feedSize": ""
 }
